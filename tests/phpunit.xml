@@ -1,0 +1,13 @@
+<!--<phpunit bootstrap="./index.php">-->
+
+    <!--<testsuites>-->
+
+        <!--<testsuite name="controllers">-->
+
+            <!--<file>./tests/src/controllers/IndexControllerTest.php</file>-->
+
+        <!--</testsuite>-->
+
+    <!--</testsuites>-->
+
+<!--</phpunit>-->
